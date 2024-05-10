@@ -1,6 +1,6 @@
 ### ¡Hola! Hello! Hallo! 👋, it's Gerardo here
 #### IT-Savvy Marketing Pro Driving Growth with SEO, PPC, Web Design, & Social Media Smarts
-![IT-Savvy Marketing Pro Driving Growth with SEO, PPC, Web Design, & Social Media Smarts]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/GerardoPerez-CL-BER/gerardoperez-cl-ber/blob/main/banner-github.jpeg))
+(https://github.com/GerardoPerez-CL-BER/gerardoperez-cl-ber/blob/main/banner-github.jpeg)
 
 ☕ Fueled by coffee, heavy metal and digital marketing dreams.  Always tweaking, testing, and optimizing  😉   If you're looking for a results-focused partner, let's chat!
 

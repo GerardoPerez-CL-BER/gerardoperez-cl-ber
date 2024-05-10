@@ -1,16 +1,18 @@
-### Hi there 👋
+### ¡Hola! Hello! Hallo! 👋, it's Gerardo here
+#### IT-Savvy Marketing Pro Driving Growth with SEO, PPC, Web Design, & Social Media Smarts
+![IT-Savvy Marketing Pro Driving Growth with SEO, PPC, Web Design, & Social Media Smarts]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/GerardoPerez-CL-BER/gerardoperez-cl-ber/blob/main/banner-github.jpeg))
 
-<!--
-**GerardoPerez-CL-BER/gerardoperez-cl-ber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕ Fueled by coffee, heavy metal and digital marketing dreams.  Always tweaking, testing, and optimizing  😉   If you're looking for a results-focused partner, let's chat!
 
-Here are some ideas to get you started:
+##Skills and Tools
+* **🎯 Marketing:**
+SEO - PPC - Web Design  - Social Media  - Analytics  - Strategy - Customer Journey Mapping
+* **</> IT:**
+Python - HTML - SQL - CSS - Website Management 
+* **🛠️ MarTech Tools:**
+Google Analytics - Google Tag Manager - VWO - Google Search Console - Google Ads - Ahrefs - Meta Business Suite - Salesforce - Pardot - HubSpot - CMS (WordPress) - Screaming Frog - Looker Studio - Adobe Suite (PS, AI, After Effects) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/GerardoPerez-CL-BER)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gerardo-pg//)  
+
+

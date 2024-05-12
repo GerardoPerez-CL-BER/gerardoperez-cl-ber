@@ -4,7 +4,7 @@
 
 ☕ Fueled by coffee, heavy metal and digital marketing dreams.  Always tweaking, testing, and optimizing  😉   If you're looking for a results-focused partner, let's chat!
 
-##Skills and Tools
+## Skills and Tools
 * **🎯 Marketing:**
 SEO - PPC - Web Design  - Social Media  - Analytics  - Strategy - Customer Journey Mapping
 * **</> IT:**

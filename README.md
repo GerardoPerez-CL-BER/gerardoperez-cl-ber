@@ -15,7 +15,7 @@ Google Analytics - Google Tag Manager - VWO - Google Search Console - Google Ads
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/GerardoPerez-CL-BER)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gerardo-pg//)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoPerez-CL-BER)](https://github.com/GerardoPerez-CL-BER/github-readme-stats&show_icons=true&theme=transparent))
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerardoPerez-CL-BER&hide=stars,prs)](https://github.com/GerardoPerez-CL-BER/github-readme-stats&show_icons=true&theme=transparent))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoPerez-CL-BER&show_icons=true&theme=dark)](https://github.com/GerardoPerez-CL-BER/github-readme-stats))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerardoPerez-CL-BER&hide=stars,prs)](https://github.com/GerardoPerez-CL-BER/github-readme-stats&show_icons=true))
 
 

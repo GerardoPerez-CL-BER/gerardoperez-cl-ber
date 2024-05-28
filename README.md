@@ -8,7 +8,7 @@
 * **🎯 Marketing:**
 SEO - PPC - Web Design  - Social Media  - Analytics  - Strategy - Customer Journey Mapping
 * **</> IT:**
-Python - HTML - CSS - SQL - Website Management 
+Python - HTML - CSS - JS - SQL - Website Management 
 * **🛠️ MarTech Tools:**
 Google Analytics - Google Tag Manager - VWO - Google Search Console - Google Ads - Ahrefs - Meta Business Suite - Salesforce - Pardot - HubSpot - CMS (WordPress) - Screaming Frog - Looker Studio - Adobe Suite (PS, AI, After Effects) 
 
